@@ -1,4 +1,3 @@
-#calculator
 print("Calculator")
 print("Type 'quit' to exit")
 run= True
