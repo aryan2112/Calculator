@@ -1,5 +1,5 @@
 print("Calculator")
-print("Type 'Quit' to Exit")
+print("Type 'quit' to Exit")
 run= True
 equation=0
 
