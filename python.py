@@ -1,7 +1,7 @@
 print("Calculator")
 print("Type 'quit' to Exit")
 run= True
-equation=1
+equation=0
 
 def calculate():
     global run
