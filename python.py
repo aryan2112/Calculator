@@ -3,7 +3,7 @@ print("Calculator")
 print("Type 'quit' to Exit")
 run= True
 equation=0
-#calculator
+
 def calculate():
     global run
     global previous
