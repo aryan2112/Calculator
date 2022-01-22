@@ -1,4 +1,4 @@
-print("Calculator")
+print("CALCULATOR")
 print("Type 'quit' to Exit")
 run= True
 equation=0
