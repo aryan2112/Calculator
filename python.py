@@ -1,5 +1,5 @@
 print("CALCULATOR")
-print("Type 'quit' to EXIT")
+print("Type 'Quit' to EXIT")
 run= True
 equation=0
 def calculate():
