@@ -5,7 +5,7 @@ equation=0
 def calculate():
     global run
     global previous
-    equation = input("Enter equation : ")
+    equation = input("Enter Equation: ")
     
     if equation=='quit':
         run=False
